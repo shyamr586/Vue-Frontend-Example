@@ -1,0 +1,17 @@
+{
+    "name": "Extra classes PWA",
+    "origin": "*",
+    "short_name": "extraclass",
+    "methods":"GET,HEAD,PUT,PATCH,POST,DELETE",
+    "description": "my online extra class",
+    "icons": [
+        {
+            "src": "images/iconschool.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
