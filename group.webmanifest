@@ -8,7 +8,7 @@
         {
             "src": "https://en.wikipedia.org/wiki/File:Round_Landmark_School_Icon_-_Transparent.svg",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/svg"
         }
     ],
     "start_url": "index.html",
