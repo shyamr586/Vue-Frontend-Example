@@ -2,7 +2,7 @@ var cacheName = 'scool-v1';
 var cacheFiles = [
     'index.html',
     'group.webmanifest',
-    'https://en.wikipedia.org/wiki/File:Round_Landmark_School_Icon_-_Transparent.svg'
+    'images/icon-store-512.png'
 ];
 
 self.addEventListener('install', (e) => {

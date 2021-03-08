@@ -6,9 +6,9 @@
     "description": "my online extra class",
     "icons": [
         {
-            "src": "https://en.wikipedia.org/wiki/File:Round_Landmark_School_Icon_-_Transparent.svg",
+            "src": "images/icon-store-512.png",
             "sizes": "512x512",
-            "type": "image/svg"
+            "type": "image/png"
         }
     ],
     "start_url": "index.html",
